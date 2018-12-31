@@ -1,3 +1,7 @@
+# Laravel files
+.env
+/vendor/**
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
